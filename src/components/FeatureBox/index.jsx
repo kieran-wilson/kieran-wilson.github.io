@@ -32,7 +32,7 @@ const BoxTitle = styled.div`
   padding: 7px;
   ${styledHeader};
 `;
-const TitleLogo = styled.img`
+export const TitleLogo = styled.img`
   max-height: 30px;
 `;
 
