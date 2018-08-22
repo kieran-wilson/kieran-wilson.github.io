@@ -16,3 +16,5 @@ Create a view with a component that looks like the attached composite image usin
 ![tile.jpg](src/assets/img/tile.jpg)
 
 ![composite.jpg](src/assets/img/composite.jpg)
+
+## Located at: [https://kieran-wilson.github.io/](https://kieran-wilson.github.io/)
